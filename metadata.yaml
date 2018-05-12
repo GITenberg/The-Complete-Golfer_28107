@@ -1,0 +1,28 @@
+_repo: The-Complete-Golfer_28107
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vardon, Harry
+    birthdate: 1870
+    deathdate: 1937
+    gutenberg_agent_id: '33146'
+    url: http://www.gutenberg.org/2009/agents/33146
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Vardon
+description: Principles and techniques of golf presented by the the British Open champion
+  of 1896, 1898, 1899, 1903, 1911, and 1914, American champion 1900.
+gutenberg_issued: '2009-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Golf'
+title: The Complete Golfer
+url: http://www.gutenberg.org/ebooks/28107
