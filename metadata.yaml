@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Harry_Vardon
 description: Principles and techniques of golf presented by the the British Open champion
   of 1896, 1898, 1899, 1903, 1911, and 1914, American champion 1900.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28107#The-Complete-Golfer
 gutenberg_issued: '2009-02-17'
 gutenberg_type: Text
 identifiers:
